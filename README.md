@@ -1,5 +1,6 @@
 # Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Srushti Khairnar](https://github.com/srush6121)
 
+![Srushti Khairnar](https://user-images.githubusercontent.com/71918721/151668149-dee499b0-3219-41dd-9881-2b0d15d0023d.gif)
 
 👩‍🎓 I'm currently pursuing my engineering degree from D.Y. Patil College Of Engineering, Akurdi, Pune. <br />
 💻 I'm interested in Web Development and Open-Source Contribution. <br />
