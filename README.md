@@ -1,4 +1,4 @@
-# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br/> I'm [Srushti Khairnar](https://github.com/srush6121)
+# Hey!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35"> <br/> I'm [Srushti Khairnar](https://github.com/srush6121)
 
 ![Srushti Khairnar (2)](https://user-images.githubusercontent.com/71918721/151768163-ea046e7d-ca1d-4bc2-a7ed-d97b2662b489.gif)
 
